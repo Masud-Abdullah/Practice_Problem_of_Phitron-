@@ -18,6 +18,7 @@ int main()
                 o++;
         }
 
+
         // cout<<e<<" "<<o<<endl;
 
         if (n % 2 != 0)
