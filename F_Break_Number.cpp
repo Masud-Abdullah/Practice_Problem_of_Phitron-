@@ -21,6 +21,5 @@ int main()
         mx = max(mx, call(a));
     }
     cout << mx << endl;
-    
     return 0;
 }
