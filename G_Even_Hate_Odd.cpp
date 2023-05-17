@@ -29,6 +29,7 @@ int main()
             cout << max(e, o) - (n / 2) << endl;
 
     }
+
     
     return 0;
 }
