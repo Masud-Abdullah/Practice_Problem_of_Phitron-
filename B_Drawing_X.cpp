@@ -19,6 +19,7 @@ int main()
     
     return 0;
 }
+//Amar Code n er man even+odd duitar jonnoi hobe
 // #include <bits/stdc++.h>
 // using namespace std;
 // int main()
