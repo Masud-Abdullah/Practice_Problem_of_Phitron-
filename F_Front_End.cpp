@@ -21,6 +21,8 @@ int main()
         }
         else cout<<a[i]<<" "<<a[j]<<" ";
     }
+
+    
    // cout<<endl;
     return 0;
 }
