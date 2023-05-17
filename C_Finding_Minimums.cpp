@@ -19,6 +19,7 @@ int main()
             cout<<mn<<endl;
         }
     }
+
     
     return 0;
 }
